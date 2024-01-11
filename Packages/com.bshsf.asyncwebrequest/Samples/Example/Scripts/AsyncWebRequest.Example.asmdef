@@ -1,0 +1,16 @@
+{
+    "name": "AsyncWebRequest.Example",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b6421ea0b8194b54caade3e3daf1b1c9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
